@@ -1,6 +1,8 @@
 # Relógio Generous Burguer
 
-# Sobre o projeto
+![clock](https://github.com/GeovanniSantos/relogio-generous-burguer/blob/master/Animação.gif)
+
+## Sobre o projeto
 
 Uma simples aplicação em JavaScript utilizando DOM e funções.
 
