@@ -1,0 +1,22 @@
+body{
+	background: black;
+}
+
+#campo-relogio {
+	background: #F5B700;
+	width: 720px;
+	height: 500px;
+	margin: 70px auto;
+}
+
+#relogio{
+	font-family: "OCR A Std", monospace; 
+	font-size: 8em;
+	text-align: center;
+	line-height: 200px;
+}
+
+#logo{
+	width: 250px;
+	margin: 0 auto;
+}
