@@ -4,6 +4,8 @@
 
 ## Sobre o projeto
 
+https://geovannisantos.github.io/relogio-generous-burguer/
+
 Uma simples aplicação em JavaScript utilizando DOM e funções.
 
 ```bash
